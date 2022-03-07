@@ -16,7 +16,7 @@
 
 ## Work Experience:
 
-#### 1. [ITS](http://kpri.its.ac.id/) | Finance Administrator | Surabaya Dec'2018- Now
+#### 1. [KPRI-ITS](http://kpri.its.ac.id/) | Finance Administrator | Surabaya Dec'2018- Now
 - Manage all accounting transactions
 - Prepare budget forecasts
 - Ensure timely bank payments
