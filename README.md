@@ -13,10 +13,11 @@ I'm an active worker in financial journalism and I've been mastering in tax and 
 ## Work Experience:
 
 #### 1. [KPRI-ITS](http://kpri.its.ac.id/) | Finance Administrator | Surabaya Dec'2018- Now
-- Manage all accounting transactions
-- Prepare budget forecasts
-- Ensure timely bank payments
-- Compute taxes and prepare tax returns
+- Managing all accounting transactions
+- Preparing budget forecasts
+- Ensuring timely bank payments
+- Computing taxes and prepare tax returns
+
 #### 2. PT Karoseri Nusantara Gemilang | Purchasing | Demak Feb'2016-2018
 - Making PO recap for company records
 - Making Purchase Order with manager approval
