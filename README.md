@@ -1,11 +1,5 @@
 I'm an active worker in financial journalism and I've been mastering in tax and accounting field. My core competencies include negotiation and data analysis skill.
 
-- 👋 Hi, I’m Rizki Wiliyan
-- 🔭 I’m currently working at KPRI Sepuluh Nopember Institute Of Technology
-- 🌱 I’m currently learning CSS, HTML and Javascript
-- 👯 I’m looking to collaborate as Finance Administrator and Accounting
-- 🤔 I’m looking for suggest for Finance and Accounting
-- 💬 Ask me about anything
 - 📫 How to reach me: rizki.flash@gmail.com
 
 ## Education :
@@ -35,6 +29,11 @@ I'm an active worker in financial journalism and I've been mastering in tax and 
 - Supporting logistic division under SDMO Management
 - Making recap of office supplies
 
+- I’m currently learning CSS, HTML and Javascript
+- I’m looking to collaborate as Finance Administrator and Accounting
+- I’m looking for suggest for Finance and Accounting
+- Ask me about anything
+- 📫 How to reach me: rizki.flash@gmail.com
 ---
 
 <!---
