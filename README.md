@@ -1,3 +1,5 @@
+I'm an active worker in financial journalism and I've been mastering in tax and accounting field. My core competencies include negotiation and data analysis skill.
+
 - 👋 Hi, I’m Rizki Wiliyan
 - 🔭 I’m currently working at KPRI Sepuluh Nopember Institute Of Technology
 - 🌱 I’m currently learning CSS, HTML and Javascript
