@@ -29,6 +29,7 @@ I'm an active worker in financial journalism and I've been mastering in tax and 
 - Supporting logistic division under SDMO Management
 - Making recap of office supplies
 
+## Skills :
 - I’m currently learning CSS, HTML and Javascript
 - I’m looking to collaborate as Finance Administrator and Accounting
 - I’m looking for suggest for Finance and Accounting
